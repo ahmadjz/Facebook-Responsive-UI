@@ -1,16 +1,15 @@
-# facebook_responsive_ui
+# Food Delivery UI
+ 
+Facebook home page clone without functioning for practicing UI buildings
 
-A new Flutter project.
+### Screenshots
 
-## Getting Started
+![Screenshot from 2022-12-12 21-29-33](https://user-images.githubusercontent.com/46372418/207126384-0f9ae501-522a-4bfa-ad8f-5a8b5cbcac39.png)
+![Screenshot from 2022-12-12 21-29-47](https://user-images.githubusercontent.com/46372418/207126392-dcf91371-232a-4fb9-be93-d5e8cb45ad3c.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Videos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Mobile Screen](https://drive.google.com/file/d/1rZeFTQfGkmZ5R90IwlzyyE8RsK5bk4rn/view?usp=share_link) <br>
+

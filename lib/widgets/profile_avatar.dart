@@ -44,22 +44,7 @@ class ProfileAvatar extends StatelessWidget {
                   ),
                 ),
               )
-            : Positioned(
-                bottom: 0.0,
-                right: 0.0,
-                child: Container(
-                  height: 15.0,
-                  width: 15.0,
-                  decoration: BoxDecoration(
-                    shape: BoxShape.circle,
-                    color: Colors.white,
-                    border: Border.all(
-                      width: 2.0,
-                      color: Palette.online,
-                    ),
-                  ),
-                ),
-              )
+            : const SizedBox.shrink()
       ],
     );
   }
